@@ -17,4 +17,4 @@ Rather, it looks more like BPFH was part of a larger initiative to grow the bala
 
 4 Year Chart of assets and liabilities:
 
-or a close up view where you can see the short term borrowings and long term debt begin to creep into the liability structure:
+![image](https://user-images.githubusercontent.com/39496491/225085314-33e82445-f45a-4095-a713-3412ef367d75.png)
