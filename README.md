@@ -1,7 +1,6 @@
 # bank_assets_chart
 Using Daloopa API to pull SIVB balance sheet data.
 
-Code base here: 
 
 I was curious whether it was easy to SEE what drove the issues at SIVB.
 
